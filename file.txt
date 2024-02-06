@@ -1,0 +1,1 @@
+Arrow functions are a new way of writing functions in ES6. They have a shorter syntax, use the same this as the outside code, and can return a value without return. They are useful for callbacks and higher-order functions.
